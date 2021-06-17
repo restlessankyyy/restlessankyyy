@@ -7,7 +7,7 @@
 
 -->
 
-My Name is Ankit. I am a Cloud Developer/ Software Engineer and love to build, integrate apps and services. 
-I love playing cricket and Among US.
+My Name is Ankit. I am a Cloud Developer🌩/ Software Engineer and love to build, integrate apps and services. 
+I love playing cricket🏏 and Among US.
 
-You can view my portfolio here: https://ankitraj.cloud
+You can visit my portfolio here: https://ankitraj.cloud
