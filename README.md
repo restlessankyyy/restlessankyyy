@@ -59,7 +59,7 @@ Cloud & AI Tech Executive with 10+ years driving enterprise-scale distributed sy
 
 <div align="center">
 
-[![Ankit's GitHub Stats](https://github-readme-stats.vercel.app/api?username=restlessankyyy&show_icons=true&theme=nord&hide_border=true&title_color=0e75b6)](https://github.com/restlessankyyy)
+[![Ankit's GitHub Stats](https://github-readme-stats.vercel.app/api?username=restlessankyyy&show_icons=true&theme=nord&hide_border=true&title_color=0e75b6&count_private=true)](https://github.com/restlessankyyy)
 [![Ankit's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=restlessankyyy&layout=compact&theme=nord&hide_border=true&title_color=0e75b6)](https://github.com/restlessankyyy)
 
 <br/>
